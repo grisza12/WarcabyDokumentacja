@@ -1,7 +1,7 @@
 # Dokumentacja projektu Warcaby
 #### Przedmiot: Inżynieria oprogramowania, Projekt zespołowy.
 ##### Autorzy: Grzegorz Mucha, Tomasz Myszak, Borys Sola.
-###### Version: 0.1
+###### Version: 0.2
 ---
 #### Spis treści:
   - Wstęp
@@ -23,7 +23,9 @@ Edytory: **Eclipse** oraz **NetBeans 8.1**
 Dostęp do projektu [Warcaby].
 
 ---
-### Diagramy UML
+### Diagramy UML (diagramy wykonane w programie WhiteStar)
+###### Diagram przypadków użycia
+![diagramprzypadkowuzycia](https://cloud.githubusercontent.com/assets/13695822/12822131/d2a8d96e-cb66-11e5-8df2-2672314bf271.jpg)
 ###### Diagram czynności gra
 ![diagramczynnosci_gra](https://cloud.githubusercontent.com/assets/13695822/12696451/671b25f2-c76b-11e5-8ad7-a6cd48a57da2.jpg)
 ###### Diagram czynności tura
